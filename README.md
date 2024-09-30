@@ -19,6 +19,10 @@ Network Models with N=1000 and k=16
 
 ### 4. Community-Based Networks
 - **Stochastic Block Model (SBM)**: Nodes are grouped into communities, with edges formed based on inter- and intra-community probabilities.
+- **Hierarchical Network with Three Groups**: 
+- **Hierarchical Network with Four Groups**: 
+- **Hierarchical Network with Custom Groups**: 
+- **Hierarchical Network with Four intra Groups**:
 
 ### 5. Geometric Networks
 - **Random Geometric Graph (RGG)**: A 2D or 3D metric space defines the network topology, based on node proximity.
