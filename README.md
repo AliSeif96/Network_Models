@@ -9,11 +9,11 @@ __________________________________________________________________
 - **Random k-Regular Graph**: Each node has exactly \( k \) neighbors, with edges assigned randomly.
 
 <p align="center">
- <img src="https://github.com/AliSeif96/Network_Models/blob/main/1.2.Chung-Lu%20Model/pic%20(4).jpg" >
+ <img src="https://github.com/AliSeif96/Network_Models/blob/main/1.2.Chung-Lu%20Model/pic%20(4).jpg" | width=500 >
  </p>
 
 <p align="center">
- <img src="https://github.com/AliSeif96/Network_Models/blob/main/1.2.Chung-Lu%20Model/pic_circular%20(2).jpg" >
+ <img src="https://github.com/AliSeif96/Network_Models/blob/main/1.2.Chung-Lu%20Model/pic_circular%20(2).jpg" | width=500>
  </p>
 
 
@@ -25,20 +25,20 @@ __________________________________________________________________
 
 
 <p align="center">
- <img src="https://github.com/AliSeif96/Network_Models/blob/main/2.1.Regular%20Graph/pic%20(3).jpg" >
+ <img src="https://github.com/AliSeif96/Network_Models/blob/main/2.1.Regular%20Graph/pic%20(3).jpg"| width=500 >
  </p>
 
  <p align="center">
- <img src="https://github.com/AliSeif96/Network_Models/blob/main/2.2.Random%20Geometric%20Graph%20(RGG)/pic%20(2).jpg" >
+ <img src="https://github.com/AliSeif96/Network_Models/blob/main/2.2.Random%20Geometric%20Graph%20(RGG)/pic%20(2).jpg"| width=500 >
  </p>
 
 
 <p align="center">
- <img src="https://github.com/AliSeif96/Network_Models/blob/main/2.3.Small-World%20Network%20(Watts-Strogatz)/pic%20(1).jpg" >
+ <img src="https://github.com/AliSeif96/Network_Models/blob/main/2.3.Small-World%20Network%20(Watts-Strogatz)/pic%20(1).jpg"| width=500 >
  </p>
 
  <p align="center">
- <img src="https://github.com/AliSeif96/Network_Models/blob/main/2.3.Small-World%20Network%20(Watts-Strogatz)/pic_circular%20(1).jpg" >
+ <img src="https://github.com/AliSeif96/Network_Models/blob/main/2.3.Small-World%20Network%20(Watts-Strogatz)/pic_circular%20(1).jpg" | width=500>
  </p>
 
 
@@ -50,11 +50,11 @@ __________________________________________________________________
 - **Holme-Kim Model**: A variant of the BA model that introduces clustering by adding triangles.
 
 <p align="center">
- <img src="https://github.com/AliSeif96/Network_Models/blob/main/3.1.Barab%C3%A1si-Albert%20(BA)%20Model/pic.jpg" >
+ <img src="https://github.com/AliSeif96/Network_Models/blob/main/3.1.Barab%C3%A1si-Albert%20(BA)%20Model/pic.jpg"| width=500 >
  </p>
 
  <p align="center">
- <img src="https://github.com/AliSeif96/Network_Models/blob/main/3.1.Barab%C3%A1si-Albert%20(BA)%20Model/pic_circular.jpg" >
+ <img src="https://github.com/AliSeif96/Network_Models/blob/main/3.1.Barab%C3%A1si-Albert%20(BA)%20Model/pic_circular.jpg"| width=500 >
  </p>
  
 __________________________________________________________________
@@ -66,11 +66,11 @@ __________________________________________________________________
 - **Hierarchical Network with Four intra Groups**:
 
   <p align="center">
- <img src="https://github.com/AliSeif96/Network_Models/blob/main/4.5.Hierarchical%20Network%20with%20Four%20intra%20Groups/pic0.05%2C0.01%2C0.002.jpg" >
+ <img src="https://github.com/AliSeif96/Network_Models/blob/main/4.5.Hierarchical%20Network%20with%20Four%20intra%20Groups/pic0.05%2C0.01%2C0.002.jpg"| width=500 >
  </p>
 
  <p align="center">
- <img src="https://github.com/AliSeif96/Network_Models/blob/main/4.5.Hierarchical%20Network%20with%20Four%20intra%20Groups/pic_circular0.05%2C0.01%2C0.002.jpg" >
+ <img src="https://github.com/AliSeif96/Network_Models/blob/main/4.5.Hierarchical%20Network%20with%20Four%20intra%20Groups/pic_circular0.05%2C0.01%2C0.002.jpg"| width=500 >
  </p>
  
 __________________________________________________________________
@@ -78,6 +78,6 @@ __________________________________________________________________
 - **Random Geometric Graph (RGG)**: A 2D or 3D metric space defines the network topology, based on node proximity.
 
 <p align="center">
- <img src="https://github.com/AliSeif96/Network_Models/blob/main/5.1.Random%20Geometric%20Graph/pic.png" >
+ <img src="https://github.com/AliSeif96/Network_Models/blob/main/5.1.Random%20Geometric%20Graph/pic.png"| width=500 >
  </p>
 
