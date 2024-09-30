@@ -24,7 +24,7 @@ __________________________________________________________________
 __________________________________________________________________
 ## 2. Lattice-Based Networks
 - **Regular Graph**: Each node is connected to a fixed number of nearest neighbors in a lattice structure.
-- **Random Geometric Graph (RGG)**: Nodes are randomly placed in space, and edges form between nodes within a certain distance.
+- **Random Geometric Graph (RGG)**: A 2D or 3D metric space defines the network topology, based on node proximity.
 - **Small-World Network (Watts-Strogatz)**: Combines regular lattice with random rewiring to create small-world properties (high clustering, short path lengths).
 
 #### Regular Graph
@@ -81,11 +81,3 @@ __________________________________________________________________
  <img src="https://github.com/AliSeif96/Network_Models/blob/main/4.5.Hierarchical%20Network%20with%20Four%20intra%20Groups/pic_circular0.05%2C0.01%2C0.002.jpg"| width=500 >
  </p>
  
-__________________________________________________________________
-### 5. Geometric Networks
-- **Random Geometric Graph (RGG)**: A 2D or 3D metric space defines the network topology, based on node proximity.
-
-<p align="center">
- <img src="https://github.com/AliSeif96/Network_Models/blob/main/5.1.Random%20Geometric%20Graph/pic.png"| width=500 >
- </p>
-
