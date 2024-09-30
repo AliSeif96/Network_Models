@@ -33,6 +33,17 @@ __________________________________________________________________
  </p>
 
 
+<p align="center">
+ <img src="https://github.com/AliSeif96/Network_Models/blob/main/2.3.Small-World%20Network%20(Watts-Strogatz)/pic%20(1).jpg" >
+ </p>
+
+ <p align="center">
+ <img src="https://github.com/AliSeif96/Network_Models/blob/main/2.3.Small-World%20Network%20(Watts-Strogatz)/pic_circular%20(1).jpg" >
+ </p>
+
+
+
+
 __________________________________________________________________
 ### 3. Scale-Free Networks
 - **Barabási-Albert (BA) Model**: Nodes are added to the network with preferential attachment, leading to a power-law degree distribution.
